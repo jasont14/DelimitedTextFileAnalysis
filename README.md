@@ -1,4 +1,5 @@
 #Delimited Text File Analysis Class C#
+
 A class that will read through a text file and return: 
   +field names - returns text from first line
   +field length - number of char between delimiter
